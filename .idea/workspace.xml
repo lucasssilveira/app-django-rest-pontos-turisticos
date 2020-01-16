@@ -14,6 +14,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WRccERNNw511oNw1MhXV0Lp2W4" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,15 +25,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/avaliacoes" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/enderecos" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lucas\pontos_turisticos\enderecos" />
       <recent name="C:\Users\lucas\pontos_turisticos\avaliacoes" />
       <recent name="C:\Users\lucas\pontos_turisticos\comentarios" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.migrate">
+  <component name="RunManager" selected="Python.runserver">
     <configuration name="makemigrations" type="PythonConfigurationType" factoryName="Python">
       <module name="pontos_turisticos" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -134,25 +138,25 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="129" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1579117513433" />
-    <state width="1345" height="178" key="GridCell.Tab.0.bottom" timestamp="1579197515636">
+    <state width="1345" height="178" key="GridCell.Tab.0.bottom" timestamp="1579201831274">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579197515636" />
-    <state width="1345" height="178" key="GridCell.Tab.0.center" timestamp="1579197515636">
+    <state width="1345" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579201831274" />
+    <state width="1345" height="178" key="GridCell.Tab.0.center" timestamp="1579201831274">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579197515636" />
-    <state width="1345" height="178" key="GridCell.Tab.0.left" timestamp="1579197515636">
+    <state width="1345" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579201831274" />
+    <state width="1345" height="178" key="GridCell.Tab.0.left" timestamp="1579201831274">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579197515636" />
-    <state width="1345" height="178" key="GridCell.Tab.0.right" timestamp="1579197515636">
+    <state width="1345" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579201831274" />
+    <state width="1345" height="178" key="GridCell.Tab.0.right" timestamp="1579201831274">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579197515636" />
-    <state x="384" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1579192205021">
+    <state width="1345" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579201831274" />
+    <state x="384" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1579200175075">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="384" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1579192205021" />
+    <state x="384" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1579200175075" />
   </component>
 </project>
