@@ -7,5 +7,8 @@ class  PontoTuristicoViewSet(ModelViewSet):
     """
     A viewset for viewing and editing user instances.
     """
-    queryset = PontoTuristico.objects.all()
+
     serializer_class = PontoTuristicoSerializer
+
+    def get_queryset(self):
+        return PontoTuristico.objects.filter(aprovado=True)
