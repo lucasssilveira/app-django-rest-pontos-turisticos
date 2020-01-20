@@ -5,7 +5,7 @@ from core.models import PontoTuristico
 from .serializers import PontoTuristicoSerializer
 
 
-class  PontoTuristicoViewSet(ModelViewSet):
+class PontoTuristicoViewSet(ModelViewSet):
     """
     A viewset for viewing and editing user instances.
     """
@@ -42,12 +42,10 @@ class  PontoTuristicoViewSet(ModelViewSet):
     def update(self, request, *args, **kwargs):
         return super(PontoTuristicoViewSet, self).update(request, *args, **kwargs)
 
-#
+    #
     def partial_update(self, request, *args, **kwargs):
         return super(PontoTuristicoViewSet, self).partial_update(request, *args, **kwargs)
 
-
-    #@action(methods=['post'], detail=True)
-    #def denunciar(self, request, pk=None):
-      #  pass
-
+    # @action(methods=['post'], detail=True)
+    # def denunciar(self, request, pk=None):
+    #  pass
